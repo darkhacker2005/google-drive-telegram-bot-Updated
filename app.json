@@ -1,5 +1,5 @@
 {
-  "name": "GDrive-Uploader-Bot",
+  "name": "Pearl-GDrive-Uploader-Bot",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
   "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
@@ -10,13 +10,13 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "1849469068:AAEbgVLIeHFzX_m5lp1iR-oUiWIXkErUlsc"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "3512213"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "9712cdfc71474742f0116089adcf4503"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
